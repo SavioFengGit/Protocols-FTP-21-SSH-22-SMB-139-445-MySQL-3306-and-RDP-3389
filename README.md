@@ -6,7 +6,7 @@ Let's see the protocols: FTP(21), SSH(22), SMB(139-445), MySQL(3306) and RDP(338
 # Introduction of protocols
 ## File Transfer Protocol
 FTP (21): File Transfer Protocol is a standard network protocol for transferring files between a client and a server over a TCP/IP network. FTP uses port 21 for control messages and port 20 for data transfer.<br>
-<img src="ftp1.jpg" width=60% height="auto"><br>
+<img src="ftp2.png" width=60% height="auto"><br>
 
 ## Secure Shell
 SSH (22): Secure Shell is a cryptographic network protocol for secure remote login and other network services over an unsecured network. SSH uses port 22 by default, but it can be changed to any port.<br>
