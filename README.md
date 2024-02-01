@@ -19,7 +19,10 @@ MySQL (3306): MySQL is an open-source relational database management system that
 ## Remote Desktop Protocol
 RDP (3389): Remote Desktop Protocol is a proprietary network protocol that allows a user to remotely access another computer through a graphical user interface. RDP uses port 3389 by default, but it can be modified to use any port. <br>
 
-For the enumeration part of these protocols, I direct you to my nmap github repository. **https://github.com/SavioFengGit/Nmap-Active-Information-Gathering/edit/main/README.md**
+For the enumeration part of these protocols, I direct you to my nmap github repository.<br> 
+**https://github.com/SavioFengGit/Nmap-Active-Information-Gathering** <br>
+For the exploitation part of these protocols with Metasploit framework, i direct you to my metasploit framework github repository.<br> 
+**https://github.com/SavioFengGit/The-Metasploit-Framework-MSF**
 
 ## My usefull list of command
 ### SMB 445
