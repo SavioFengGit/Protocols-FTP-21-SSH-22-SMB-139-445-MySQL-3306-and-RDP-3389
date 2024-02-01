@@ -5,19 +5,24 @@ Let's see the protocols: FTP(21), SSH(22), SMB(139-445), MySQL(3306) and RDP(338
 
 # Introduction of protocols
 ## File Transfer Protocol
-FTP (21): File Transfer Protocol is a standard network protocol for transferring files between a client and a server over a TCP/IP network. FTP uses port 21 for control messages and port 20 for data transfer.
+FTP (21): File Transfer Protocol is a standard network protocol for transferring files between a client and a server over a TCP/IP network. FTP uses port 21 for control messages and port 20 for data transfer.<br>
+<img src="ftp.jpg" width=60% height="auto"><br>
 
 ## Secure Shell
-SSH (22): Secure Shell is a cryptographic network protocol for secure remote login and other network services over an unsecured network. SSH uses port 22 by default, but it can be changed to any port.
+SSH (22): Secure Shell is a cryptographic network protocol for secure remote login and other network services over an unsecured network. SSH uses port 22 by default, but it can be changed to any port.<br>
+<img src="ssh.png" width=60% height="auto"><br>
 
 ## Server Message Block
-SMB (139-445): Server Message Block is a network protocol for sharing files, printers, and other resources on a local area network. SMB uses port 139 for NetBIOS session service and port 445 for direct TCP/IP connection.
+SMB (139-445): Server Message Block is a network protocol for sharing files, printers, and other resources on a local area network. SMB uses port 139 for NetBIOS session service and port 445 for direct TCP/IP connection.<br>
+<img src="smb.png" width=60% height="auto"><br>
 
 ## MySQL
-MySQL (3306): MySQL is an open-source relational database management system that uses Structured Query Language (SQL) to manipulate and query data. MySQL uses port 3306 by default, but it can be configured to use any port.
+MySQL (3306): MySQL is an open-source relational database management system that uses Structured Query Language (SQL) to manipulate and query data. MySQL uses port 3306 by default, but it can be configured to use any port.<br>
+<img src="mysql.jpg" width=60% height="auto"><br>
 
 ## Remote Desktop Protocol
 RDP (3389): Remote Desktop Protocol is a proprietary network protocol that allows a user to remotely access another computer through a graphical user interface. RDP uses port 3389 by default, but it can be modified to use any port. <br>
+<img src="rdp.png" width=60% height="auto"><br>
 
 For the enumeration part of these protocols, I direct you to my nmap github repository.<br> 
 **https://github.com/SavioFengGit/Nmap-Active-Information-Gathering** <br>
